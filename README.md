@@ -6,6 +6,15 @@
 
     npm install --save sharkdown
 
+Or as a handy utility:
+
+    npm install sharkdown -g
+
+And then you can do:
+
+    sharkdown file.md
+    sharkdown < "markdown data"
+
 ## api
 
 ### `sharkdown(str)`
