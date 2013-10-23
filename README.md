@@ -2,6 +2,8 @@
 
 # sharkdown
 
+![](https://i.cloudup.com/FdxECDQECh.png)
+
 ## usage
 
     npm install --save sharkdown
@@ -28,4 +30,10 @@ Returns a through-stream for pipes.
 
 ## example
 
-    process.stdin.pipe(sharkdown()).pipe(process.stdout);
+```js
+var sharkdown = require('sharkdown');
+
+process.stdin
+    .pipe(sharkdown())
+    .pipe(process.stdout);
+```

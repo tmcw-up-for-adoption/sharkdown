@@ -14,7 +14,8 @@
     "split": "~0.2.10",
     "stream-spigot": "~2.1.2",
     "through": "~2.3.4",
-    "minimist": "0.0.5"
+    "minimist": "0.0.5",
+    "cardinal": "~0.4.2"
   },
   "devDependencies": {
     "mocha": "~1.13.0",
