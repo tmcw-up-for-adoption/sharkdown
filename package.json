@@ -9,6 +9,10 @@
   "bin": {
     "sharkdown": "sharkdown"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmcw-up-for-adoption/sharkdown.git"
+  },
   "dependencies": {
     "split": "~0.2.10",
     "minimist": "0.0.5",
