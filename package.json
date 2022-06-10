@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "split": "~0.2.10",
-    "minimist": "0.0.5",
+    "minimist": "1.2.6",
     "cardinal": "~0.4.2"
   },
   "devDependencies": {
